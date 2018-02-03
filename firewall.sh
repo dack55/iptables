@@ -12,8 +12,7 @@
 
 iniciar_firewall(){
 echo "################################################"
-echo "# SCRIPT FIREWALL - COMPARTILHAMENTO DE REDE   #"
-echo "# TÉCNICO RAFAEL TEIXEIRA CORREIA              #"
+echo "# SCRIPT FIREWALL - COMPARTILHAMENTO DE REDE   #"                                                     #"
 echo "# 08/05/2016                                   #"
 echo "################################################"
 
